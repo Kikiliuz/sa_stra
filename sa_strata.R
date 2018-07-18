@@ -1,4 +1,4 @@
-# 上采样
+# 调整采样比例
 sa_stra<-function(data,flag,freq){
 	set.seed(1)
 	n_p1=sum(flag)
